@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\bin\Debug\netcoreapp3.1\Multiplication tables.exe
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\bin\Debug\netcoreapp3.1\Multiplication tables.deps.json
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\bin\Debug\netcoreapp3.1\Multiplication tables.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\bin\Debug\netcoreapp3.1\Multiplication tables.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\bin\Debug\netcoreapp3.1\Multiplication tables.dll
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\bin\Debug\netcoreapp3.1\Multiplication tables.pdb
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.dll
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.pdb
+C:\Users\Huy Le\source\repos\Multiplication tables\Multiplication tables\obj\Debug\netcoreapp3.1\Multiplication tables.genruntimeconfig.cache
